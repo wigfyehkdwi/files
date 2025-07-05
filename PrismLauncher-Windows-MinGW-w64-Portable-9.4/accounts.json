@@ -1,0 +1,40 @@
+{
+    "accounts": [
+        {
+            "entitlement": {
+                "canPlayMinecraft": true,
+                "ownsMinecraft": true
+            },
+            "msa-client-id": "",
+            "type": "MSA"
+        },
+        {
+            "active": true,
+            "entitlement": {
+                "canPlayMinecraft": true,
+                "ownsMinecraft": true
+            },
+            "profile": {
+                "capes": [
+                ],
+                "id": "e95aaec77c7f3e1f8a7df3096493db1d",
+                "name": "_ChipMC_",
+                "skin": {
+                    "id": "",
+                    "url": "",
+                    "variant": ""
+                }
+            },
+            "type": "Offline",
+            "ygg": {
+                "extra": {
+                    "clientToken": "4aa112ae864a431d85ce9a0261198c2f",
+                    "userName": "_ChipMC_"
+                },
+                "iat": 1745683735,
+                "token": "0"
+            }
+        }
+    ],
+    "formatVersion": 3
+}

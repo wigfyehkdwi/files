@@ -1,0 +1,30 @@
+/rank %
+/top
+/specs
+/gc
+/mspt
+/gc
+/mspt
+/tp cxvqo
+/top
+/rank %
+/mspt
+/tellraw @a "\u00a7test"
+/top
+/skin _ChipMC_
+/top
+/rank %
+/top
+/mute _ChipMC_
+/c
+/op @a
+/gmc
+/$
+/gmc
+/tp Werkku
+/invsee
+/invsee a
+/invsee Werkku
+/invsee _ChipMC_
+/invsee DinBoom
+/tp ProudNazi

@@ -1,0 +1,207 @@
+     0.000 D | Testing "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/qtlogging.ini" ...
+     0.000 D | Loading logging rules from: "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/qtlogging.ini"
+     0.000 D | Setting log rules:
+     0.000 D |      "*.debug=true"
+     0.000 D |      "launcher.auth.credentials.debug=false"
+     0.000 D |      "launcher.task=false"
+     0.000 D |      "launcher.task.net=true"
+     0.000 D |      "launcher.task.net.download.debug=false"
+     0.000 D |      "launcher.task.net.metacache=false"
+     0.000 D |      "launcher.task.net.metacache.http=true"
+     0.000 D |      "launcher.task.net.upload=true"
+     0.000 D |      "qt.*.debug=false"
+     0.000 D | <> Log initialized.
+     0.000 D | <> No migration needed from "PolyMC"
+     0.000 D | <> No migration needed from "MultiMC"
+     0.000 D | Prism Launcher, � 2022-2025 Prism Launcher Contributors, � 2021-2022 PolyMC Contributors, � 2012-2021 MultiMC Contributors
+     0.000 D | Version                    :  "9.4"
+     0.000 D | Platform                   :  "official"
+     0.000 D | Git commit                 :  ""
+     0.000 D | Git refspec                :  "refs/heads/stable"
+     0.000 D | Compiled for               :  "Windows 6.2.9200 AMD64"
+     0.000 D | Compiled by                :  "Clang - 20.1.1"
+     0.000 D | Build Artifact             :  "Windows-MinGW-w64-Qt"
+     0.001 D | Updates Enabled           :  Yes
+     0.001 D | Work dir before adjustment :  "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4"
+     0.001 D | Work dir after adjustment  :  "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4"
+     0.001 D | Adjusted by                :  "Portable data path"
+     0.001 D | Binary path                :  "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4"
+     0.001 D | Application root path      :  "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4"
+     0.001 D | <> Paths set.
+     0.013 D | Detected default console font: "Courier New" , substitutions: ""
+     0.034 D | <> Settings loaded.
+     0.035 D | Detecting proxy settings...
+     0.035 D | Using no proxy is an option!
+     0.035 D | <> Network done.
+     0.044 D | Your language is "en_US"
+     0.044 D | <> Translations loaded.
+     0.045 D | Started watching  "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/icons"
+     0.046 D | Sorting icon list...
+     0.046 D | <> Instance icons initialized.
+     0.240 D | [Theme] Determining System Widget Theme...
+     0.240 D | [Theme] System theme seems to be: "windows11"
+     0.240 D | [Theme] <> Initializing Icon Themes
+     0.240 D | [Theme] Loaded Built-In Icon Theme "pe_colored"
+     0.240 D | [Theme] Loaded Built-In Icon Theme "pe_light"
+     0.240 D | [Theme] Loaded Built-In Icon Theme "pe_dark"
+     0.240 D | [Theme] Loaded Built-In Icon Theme "pe_blue"
+     0.240 D | [Theme] Loaded Built-In Icon Theme "breeze_light"
+     0.240 D | [Theme] Loaded Built-In Icon Theme "breeze_dark"
+     0.240 D | [Theme] Loaded Built-In Icon Theme "OSX"
+     0.241 D | [Theme] Loaded Built-In Icon Theme "iOS"
+     0.241 D | [Theme] Loaded Built-In Icon Theme "flat"
+     0.241 D | [Theme] Loaded Built-In Icon Theme "flat_white"
+     0.241 D | [Theme] Loaded Built-In Icon Theme "multimc"
+     0.241 D | [Theme] Icon Theme Folder Path:  "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/iconthemes"
+     0.241 D | [Theme] <> Icon themes initialized.
+     0.241 D | [Theme] <> Initializing Widget Themes
+     0.241 D | [Theme] Loading Built-in Theme: "system"
+     0.241 D | [Theme] Loading Built-in Theme: "dark"
+     0.241 D | [Theme] Loading Built-in Theme: "bright"
+     0.241 D | [Theme] <> Initializing System Widget Themes
+     0.241 D | [Theme] Loading System Theme: "windows11"
+     0.241 D | [Theme] Loading System Theme: "windowsvista"
+     0.241 D | [Theme] Loading System Theme: "Windows"
+     0.241 D | [Theme] Loading System Theme: "Fusion"
+     0.242 D | [Theme] Theme Folder Path:  "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/themes"
+     0.242 D | [Theme] <> Widget themes initialized.
+     0.242 D | [Theme] CatPacks Folder Path: "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/catpacks"
+     2.056 D | Instance path              :  "instances"
+     2.057 D | Loading Instances...
+     2.057 D | Discovering instances in "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/instances"
+     2.058 D | Found instance ID "1.21.5"
+     2.058 D | Will load group list now.
+     2.065 D | Group list loaded.
+     2.074 D | Loaded instance  "1.21.5"  from  "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/instances/1.21.5"
+     2.074 D | <> Instances loaded.
+     2.074 D | Loading accounts...
+     2.082 D | AccountList: Queued default account with internal ID  "7f803d165dd44bcbabc0d65bc8b214f3"  to refresh first
+     2.083 D | Writing account list to "accounts.json"
+     2.083 D | Building JSON data structure.
+     2.083 D | Building account array.
+     2.083 D | Writing account list to file.
+     2.085 D | Saved account list to "accounts.json"
+     2.085 D | RefreshSchedule: Background account refresh succeeded
+     2.085 D | RefreshSchedule: Processing account  "<Offline>"  with internal ID  "7f803d165dd44bcbabc0d65bc8b214f3"
+     2.085 D | <> Accounts loaded.
+     2.095 D | <> Cache initialized.
+     2.095 D | Downloading Translations Index...
+     2.096 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
+     2.103 D | [Theme] <> Icon theme set.
+     2.103 D | [Theme] applying theme "Dark"
+     2.103 D | [Theme] <> Application theme set.
+     2.149 D | Reloading news.
+     2.157 D | [launcher.instance.profile.resolve]: Loading components
+     2.158 D | "1.21.5" | Component list save is scheduled
+     2.173 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "LWJGL 3"
+     2.188 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "Minecraft"
+     2.195 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "Intermediary Mappings"
+     2.206 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "Fabric Loader"
+     2.206 D | [launcher.instance.profile]: "1.21.5" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
+     2.214 D | Instance-type specific settings were loaded!
+     2.278 D | <> Main window shown.
+     2.279 D | Initializing updater
+     2.286 D | <> Updater started.
+     3.072 D | Dir changed: "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/translations"
+     3.386 D | Dir changed: "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/translations"
+     3.395 D | Dir changed: "C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/translations"
+     3.396 D | Got translations index!
+     3.430 D | Finished loading RSS feed.
+     3.436 D | Loaded news entry "Prism Launcher Release 9.4, now available"
+     3.436 D | Loaded news entry "Prism Launcher Release 9.3, now available"
+     3.436 D | Loaded news entry "[April Fools 2025] Announcing Prism Premium"
+     3.436 D | Loaded news entry "Moving on from Twitter"
+     3.436 D | Loaded news entry "Prism Launcher Release 9.2, now available"
+     3.436 D | Loaded news entry "Prism Launcher Release 9.1, now available"
+     3.436 D | Loaded news entry "Prism Launcher Release 9.0, now available"
+     3.436 D | Loaded news entry "Prism Launcher Release 8.4, now available"
+     3.436 D | Loaded news entry "Microsoft authentication issues in some regions"
+     3.436 D | Loaded news entry "Prism Launcher Release 8.3, now available"
+     3.436 D | Loaded news entry "Prism Launcher Release 8.2, now available"
+     3.436 D | Loaded news entry "Prism Launcher Release 8.1, now available"
+     3.436 D | Loaded news entry "Prism Launcher Release 8.0, now available"
+     3.436 D | Loaded news entry "[MALWARE WARNING] RCE Vulnerability on some modded servers - Bleeding Pipe"
+     3.436 D | Loaded news entry "Prism Launcher Release 7.2, now available"
+     3.436 D | Loaded news entry "Prism Launcher Release 7.1, now available"
+     3.436 D | Loaded news entry "Prism Launcher Release 7.0, now available"
+     3.436 D | Loaded news entry "FTB Modpack Downloading Removal."
+     3.436 D | Loaded news entry "[MALWARE WARNING] \"fractureiser\" malware in many popular Minecraft mods and modpacks"
+     3.437 D | Loaded news entry "[SECURITY UPDATE] Prism Launcher Release 6.3, now available"
+     3.437 D | Loaded news entry "Prism Launcher Release 6.2, now available"
+     3.437 D | Loaded news entry "Prism Launcher Release 6.1, now available"
+     3.437 D | Loaded news entry "Prism Launcher Release 6.0, now available"
+     3.437 D | Loaded news entry "Prism Launcher Release 5.2, now available"
+     3.437 D | Loaded news entry "Prism Launcher Release 5.1, now available"
+     3.437 D | Loaded news entry "Prism Launcher Release 5.0, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.4.2, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.4.1, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.4.0, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.3.2, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.3.1, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.3.0, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+     3.437 D | Loaded news entry "PolyMC Update 1.2.1, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.2.0, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.1.1, now available"
+     3.437 D | Loaded news entry "PolyMC Update 1.1.0, now available"
+     3.437 D | Loaded news entry "Moving on"
+     3.437 D | Loaded news entry "Modrinth support and Mod downloading"
+     3.437 D | Loaded news entry "New maintainers and step down."
+     3.437 D | News loading succeeded.
+     7.188 D | "1.21.5" | Component list save performed now
+     8.622 D | AccountList: Pushed account with internal ID  "7f803d165dd44bcbabc0d65bc8b214f3"  to the front of the queue
+     8.622 D | Writing account list to "accounts.json"
+     8.622 D | Building JSON data structure.
+     8.622 D | Building account array.
+     8.622 D | Writing account list to file.
+     8.634 D | Saved account list to "accounts.json"
+     8.634 D | RefreshSchedule: Background account refresh succeeded
+     8.635 D | RefreshSchedule: Processing account  "<Offline>"  with internal ID  "7f803d165dd44bcbabc0d65bc8b214f3"
+     9.411 D | [launcher.instance.profile.resolve]: Loading components
+     9.411 D | "1.21.5" | Component list save is scheduled
+     9.411 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "LWJGL 3"
+     9.411 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "Minecraft"
+     9.411 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "Intermediary Mappings"
+     9.411 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "Fabric Loader"
+     9.431 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
+     9.604 C | Exception: "mismatched checksum"
+     9.605 D | "Unable to parse file C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/meta/net.minecraft/index.json: mismatched checksum"
+     9.625 C | Exception: "mismatched checksum"
+     9.625 D | "Unable to parse file C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/meta/net.fabricmc.intermediary/index.json: mismatched checksum"
+     9.642 D | [launcher.instance.profile.resolve]: Remote task 0 succeeded
+     9.642 D | [launcher.instance.profile.resolve]: Remote task 3 succeeded
+     9.722 C | Exception: "mismatched checksum"
+     9.722 D | "Unable to parse file C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/meta/net.minecraft/1.21.5.json: mismatched checksum"
+     9.724 D | [launcher.instance.profile.resolve]: Remote task 2 succeeded
+     9.752 D | [launcher.instance.profile.resolve]: Remote task 1 succeeded
+     9.752 D | [launcher.instance.profile.resolve]: Resolving dependencies
+     9.753 D | [launcher.instance.profile.resolve]: "Req: net.fabricmc.intermediary" Is met.
+     9.753 D | [launcher.instance.profile.resolve]: "Req: net.minecraft == 1.21.5" Is met.
+     9.753 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is met.
+     9.753 D | [launcher.instance.profile]: "1.21.5" | Component list update/resolve task succeeded
+     9.757 D | Writing account list to "accounts.json"
+     9.757 D | Building JSON data structure.
+     9.757 D | Building account array.
+     9.757 D | Writing account list to file.
+     9.766 D | Saved account list to "accounts.json"
+     9.767 W | Profile "e95aaec77c7f3e1f8a7df3096493db1d" is now in use.
+     9.769 D | "1.21.5" : downloading libraries
+     9.769 D | [launcher.instance.profile]: "1.21.5" | Applying "org.lwjgl3" GOOD
+     9.769 D | [launcher.instance.profile]: "1.21.5" | Applying "net.minecraft" GOOD
+     9.769 D | [launcher.instance.profile]: "1.21.5" | Applying "net.fabricmc.intermediary" GOOD
+     9.769 D | [launcher.instance.profile]: "1.21.5" | Applying "net.fabricmc.fabric-loader" GOOD
+     9.879 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
+     9.879 D | Asset index SHA1: "d3ab7433ee25f483f5a9642104b21475f287c376"
+     9.879 D | "1.21.5" : Starting asset index download
+     9.889 W | setGeometry: Unable to set geometry 480x138+720+467 (frame: 496x177+712+436) on QWidgetWindow/"ProgressDialogWindow" on "\\.\DISPLAY1". Resulting geometry: 480x204+720+467 (frame: 496x243+712+436) margins: 8, 31, 8, 8 minimum size: 480x138 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=0, y=0), mintrack=POINT(x=496, y=177)))
+    10.147 D | "1.21.5" : Finished asset index download
+    14.719 D | "1.21.5" | Component list save performed now
+    21.842 D | reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/24"
+    21.947 D | "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx512m -Duser.language=en -Djava.library.path=C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/instances/1.21.5/natives -cp C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/jars/NewLaunch.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-freetype-natives-windows-arm64/3.3.3/lwjgl-freetype-natives-windows-arm64-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-freetype-natives-windows-x86/3.3.3/lwjgl-freetype-natives-windows-x86-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-freetype-natives-windows/3.3.3/lwjgl-freetype-natives-windows-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.3.3/lwjgl-glfw-natives-windows-arm64-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.3/lwjgl-glfw-natives-windows-x86-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-glfw-natives-windows/3.3.3/lwjgl-glfw-natives-windows-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.3.3/lwjgl-jemalloc-natives-windows-arm64-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.3/lwjgl-jemalloc-natives-windows-x86-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.3/lwjgl-jemalloc-natives-windows-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-natives-windows-arm64/3.3.3/lwjgl-natives-windows-arm64-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-natives-windows-x86/3.3.3/lwjgl-natives-windows-x86-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-natives-windows/3.3.3/lwjgl-natives-windows-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-openal-natives-windows-arm64/3.3.3/lwjgl-openal-natives-windows-arm64-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.3/lwjgl-openal-natives-windows-x86-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-openal-natives-windows/3.3.3/lwjgl-openal-natives-windows-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.3.3/lwjgl-opengl-natives-windows-arm64-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.3/lwjgl-opengl-natives-windows-x86-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-opengl-natives-windows/3.3.3/lwjgl-opengl-natives-windows-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-stb-natives-windows-arm64/3.3.3/lwjgl-stb-natives-windows-arm64-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.3/lwjgl-stb-natives-windows-x86-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-stb-natives-windows/3.3.3/lwjgl-stb-natives-windows-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.3.3/lwjgl-tinyfd-natives-windows-arm64-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.3/lwjgl-tinyfd-natives-windows-x86-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.3/lwjgl-tinyfd-natives-windows-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/authlib/6.0.58/authlib-6.0.58.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/jtracy-natives-windows/1.0.29/jtracy-natives-windows-1.0.29.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/text2speech/1.18.11/text2speech-1.18.11.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/ow2/asm/asm/9.8/asm-9.8.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/net/fabricmc/intermediary/1.21.5/intermediary-1.21.5.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar;C:/Users/xplco/Downloads/PrismLauncher-Windows-MinGW-w64-Portable-9.4/libraries/com/mojang/minecraft/1.21.5/minecraft-1.21.5-client.jar org.prismlauncher.EntryPoint"
+    40.142 D | [launcher.task.net.metacache.http]: Saving metacache with 14 entries
+  3918.764 D | Writing account list to "accounts.json"
+  3918.764 D | Building JSON data structure.
+  3918.764 D | Building account array.
+  3918.764 D | Writing account list to file.
+  3918.770 D | Saved account list to "accounts.json"
+  3918.770 W | Profile "e95aaec77c7f3e1f8a7df3096493db1d" is no longer in use.
